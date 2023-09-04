@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvMerger", "CsvMerger\CsvMerger.csproj", "{C02BF084-B6B4-4C67-A928-69FAD6E4C6B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C02BF084-B6B4-4C67-A928-69FAD6E4C6B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C02BF084-B6B4-4C67-A928-69FAD6E4C6B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C02BF084-B6B4-4C67-A928-69FAD6E4C6B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C02BF084-B6B4-4C67-A928-69FAD6E4C6B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
